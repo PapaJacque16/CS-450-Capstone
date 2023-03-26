@@ -5,7 +5,7 @@
     "Aaron McCarley <mccarleyaarony@gmail.com>"
   ],
   "description": "Machine Learning in Javascript. Sensor Fault Detection Using Machine Learning",
-  "main": "build/convnet.js",
+  "main":
   "moduleType": [
     "amd",
     "es6",
