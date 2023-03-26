@@ -1,0 +1,27 @@
+{
+  "name": "Regression For Sensor Fault Detection",
+  "version": "0.0.0",
+  "authors": [
+    "Aaron McCarley <mccarleyaarony@gmail.com>"
+  ],
+  "description": "Machine Learning in Javascript. Sensor Fault Detection Using Machine Learning",
+  "main": "build/convnet.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "machine",
+    "learning"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
