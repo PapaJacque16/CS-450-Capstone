@@ -1,4 +1,4 @@
-# Machine Learning Model and Publishing findings using COLAB, Python, and HTML/CSS.
+### Machine Learning Model and Publishing findings using COLAB, Python, and HTML/CSS.
 Steps to create this project
 
 1. Determine the problem you are solving with the app - this will guide the type of machine learning algorithm you use
