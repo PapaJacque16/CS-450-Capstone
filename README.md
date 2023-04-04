@@ -9,5 +9,5 @@ Steps to create this project:
 6. Train the model on the training data
 7. Evaluate the model's performance on the testing data
 8. Fine-tune the model by adjusting parameters and retraining on the training data
-9. Integrate the model into the HTML/CSS page
+9. Integrate the model into the HTML page
 10. Test the entire app for functionality and accuracy, and make any necessary adjustments, before commiting final publishment of findings on HTML page.
