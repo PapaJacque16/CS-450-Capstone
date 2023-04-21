@@ -1,4 +1,4 @@
-### Machine Learning Model with findings using COLAB, Python, and HTML/CSS.
+### Machine Learning Model with findings using a Jupyter Notebook through COLAB with Python Code, and HTML/CSS/JS.
 Steps to create this project:
 
 1. Determine the problem you are solving with the app - this will guide the type of machine learning algorithm you use
@@ -9,5 +9,5 @@ Steps to create this project:
 6. Train the model on the training data
 7. Evaluate the model's performance on the testing data
 8. Fine-tune the model by adjusting parameters and retraining on the training data
-9. Integrate the model into the HTML/CSS page
+9. Integrate the model into a HTML/CSS/JS page
 10. Test the entire model for functionality and accuracy, and make any necessary adjustments, before commiting final publishment of findings on HTML page.
